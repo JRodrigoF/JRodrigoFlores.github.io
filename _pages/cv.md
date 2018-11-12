@@ -67,7 +67,7 @@ Skills
 ======
 
 * Data processing and data analysis of genomic data using python, perl and R
-* Excellent analytical capacity to discuss, carry on, propose new avenues, and drive research.
+* Analytical capacity to discuss, carry on, propose new avenues, and drive research.
 
 
 Publications
