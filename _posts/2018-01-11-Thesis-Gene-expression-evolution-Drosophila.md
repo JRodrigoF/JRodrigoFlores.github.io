@@ -1,7 +1,7 @@
 ---
-title: '[Thesis] Using transcriptomes to search for positive selection and adaptation in gene expression of Drosophila species'
+title: '[Report] Using transcriptomes to search for positive selection and adaptation in gene expression of Drosophila species'
 date: 2018-11-11
-permalink: /posts/2018/11/Thesis-Gene-expression-evolution-Drosophila/
+permalink: /posts/2018/11/Report-Gene-expression-evolution-Drosophila/
 tags:
   - gene expression evolution
   - rna-seq
@@ -22,4 +22,4 @@ Batch effects in modENCODE data
 
 References:
 
-[Thesis](https://www.dropbox.com/s/imrnpn8ukzkvaar/E%20-%20Master%20Report%20-%20Second%20submission.pdf?dl=0)
+[Report](https://www.dropbox.com/s/imrnpn8ukzkvaar/E%20-%20Master%20Report%20-%20Second%20submission.pdf?dl=0)
