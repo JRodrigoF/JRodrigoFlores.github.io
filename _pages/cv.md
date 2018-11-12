@@ -30,14 +30,14 @@ Research and Work experience
   
   * Marianne Schmid Mast Lab
   * Department of Organizational Behavior
-  * Job position: Python programmer for psychology research.
+  * Job position: Programmer for virtual reality in psychology research. 3D modeling/animation
   
 <br/>  
 ### [2013 - 2015] University of Lausanne, Switzerland
   
   * Marc Robinson-Rechavi Lab
   * Department of Ecology and Evolution 
-  * Research topic: Gene expression evolution in Drosophila species. modENCODE data
+  * Research topic: Gene expression evolution in _Drosophila_ species. modENCODE data
 
 <br/>
 ### [2012 - 2013] National Institute of Genomic Medicine, Mexico
