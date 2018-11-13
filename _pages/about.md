@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am a genomicist and bioinformatician doing original research in evolutionary anthropology and human population genetics. I am searching for a PhD position in these areas. I remain broad in my research interests within these and connected areas.
+Hi. I am a genomicist and bioinformatician doing original research in evolutionary anthropology and human population genetics. I am searching for a PhD position and I remain broad in my research interests within these areas.
 
 I work in the [Human Evolutionary Department](http://www.ebc.ee/) at the Genomics Institute of Tartu University in Estonia. I work under the supervision of Dr. Luca Pagani and also collaborate with other colleagues at the department and have a few [projects of my own](https://jrodrigoflores.com/projects/). I think these projects span the categories of [feasible](https://jrodrigoflores.com/projects/Genomic-impact-of-the-Black-Death-in-Europe/), [interesting](https://jrodrigoflores.com/projects/Context-dependant-mutation-rates-free-of-recombination/), and [useful](https://jrodrigoflores.com/projects/Automated-identification-of-Y-haplogroups-from-ancient-dna/). I advance them in my free time. 
 
