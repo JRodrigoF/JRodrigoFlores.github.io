@@ -1,6 +1,6 @@
 ---
 title: 'Automated identification of human Y chromosome haplogroups based on ancient dna data'
-excerpt: "A flexible tool that specifically addresses the shortcomings of ancient dna to identify Y haplogroups in an automated and reliable way still is missing"
+excerpt: "A flexible tool that specifically addresses the shortcomings of ancient dna to identify Y haplogroups in an automated and reliable"
 collection: projects
 ---
 
