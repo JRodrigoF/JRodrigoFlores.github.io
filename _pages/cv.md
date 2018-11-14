@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Genomic Sciences, National Autonomous University of Mexico, 2008-2012
+* BSc. Genomic Sciences, National Autonomous University of Mexico [2008 - 2012
 
 <br/>
 
