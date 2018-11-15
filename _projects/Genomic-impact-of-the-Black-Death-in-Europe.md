@@ -4,7 +4,6 @@ excerpt: "The plan is to use Eurasian high-coverage genomes in order to detect t
 collection: projects
 ---
 
-Archaeologists and historians estimate that between 30% and 50% of the European population died during the 13th-14th centuries due to yet another wave of highly infectious _Yersinia pestis_. Whether it was caused by the same strain that was already present in Europe from previous incoming spreads from Asia, or this was a new and perhaps more deadly strain is still matter of debate. Importantly however, one question still remains to be answered: What do modern Eurasian genomes tell us about it? Was it in the magnitude estimated by archaeologists? Do the estimates by region also correlate with the genomic evidence?
+Archaeologists and historians estimate that between 30% and 50% of the European population died during the 13th-14th centuries due to yet another wave of highly infectious _Yersinia pestis_. Whether it was caused by the same strain that was already present in Europe from previous incoming spreads from Asia, or this was a new and perhaps more deadly strain is still matter of debate. Importantly however, one question remains to be properly addressed: What do modern Eurasian genomes tell us about it? Do we see based on genetic evidence that the magnitude of the events was in the same scale as the estimates from archaeology? Do the estimates by region also correlate with the genetic evidence?
 
-The plan is to use a panel of Eurasian individuals sequenced at high-coverage spanning from Spain to the Urals and apply methodologies that recover fluctuation in population size in the recent past. 
-
+I am using a panel of Eurasian individuals geographically spanning from Spain to the Urals, and applying on them methodologies that recover fluctuation in population size in the recent past. 
