@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "J. Rodrigo Flores"
-description              : &description "Bioinformatician at the Institute of Genomics of Tartu University, Estonia"
+description              : &description "Genomicist and bioinformatician at the Institute of Genomics of Tartu University, Estonia"
 url                      : https://jrodrigof.github.io/JRodrigoFlores.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JRodrigoFlores.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "J. Rodrigo Flores"
   avatar           : "profile.png"
-  bio              : "Bioinformatician and genomicist interested in evolutionary and population genetics"
+  bio              : "Genomicist and bioinformatician interested in evolutionary and population genetics"
   location         : "Tartu, Estonia"
   employer         : "Tartu University"
   googlescholar    : 
