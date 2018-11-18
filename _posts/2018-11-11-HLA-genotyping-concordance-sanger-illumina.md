@@ -13,9 +13,11 @@ tags:
 
 Genotyping HLA alleles in samples that have been sequenced using Illumina short-reads is a challenging and [non-trivial task](http://genestogenomes.org/the-trouble-with-hla-diversity/). Different approaches have been developed in recent years. 
 
-Here I tested the accuracy of [Heng Li's approach](https://github.com/lh3/bwa/blob/master/README-alt.md#hla-typing) of using the human genome reference GRC38 with the addition of ALT contigs, decoy sequences, and importantly, an array of ~2500 [known HLA haplotypes](https://www.ebi.ac.uk/ipd/imgt/hla/). I also offer a comparison of whether the accuracy increases if the same pipeline is used but with an extended and more recent version of the HLA database which now includes ~5000 haplotypes. 
+Here I tested the accuracy of [Heng Li's approach](https://github.com/lh3/bwa/blob/master/README-alt.md#hla-typing) of using the human genome reference GRC38 with the addition of ALT contigs, decoy sequences, and importantly, an array of ~500 [known HLA haplotypes](https://www.ebi.ac.uk/ipd/imgt/hla/docs/version_r3180.html) taken from the [IPD-IMGT/HLA](https://www.ebi.ac.uk/ipd/imgt/hla/) database (v3.18). I also offer a comparison of whether the genotyping accuracy increases by using the most recent version [v3.34](https://www.ebi.ac.uk/ipd/imgt/hla/docs/version_r3340.html) of the HLA database,which contains now about ~5000 haplotypes. 
 
-Most probably the new additions correspond to rare haplotypes seen in not so well studied populations, however is good to keep in mind that by increasing the number of haplotypes in the assembly used, we also increase the power to discriminate between alleles, specially when we try to genotype populations for which the known HLA haplotypes are not so well studied. Here I used [150 samples](https://github.com/Illumina/Polaris) from three populations (EUR, EAS, AFR) that have been sequenced by the Polaris project at high-coverage using Illumina 150bp PE reads.
+Most probably the new additions correspond to rare haplotypes seen in not so well studied populations, however by increasing the number of HLA haplotypes we increase the power to discriminate between alleles, specially when we try to genotype populations for which the known HLA haplotypes are not so well studied. 
+
+For the comparisons presented here I have used 150 samples from three populations (EUR, EAS, AFR) that have been sequenced by the Polaris project at high-coverage using Illumina sequencing [see here](https://jrodrigoflores.com/posts/2018/11/Polaris-project-diversity-panel/) for details on the data.
 
 
 References:
