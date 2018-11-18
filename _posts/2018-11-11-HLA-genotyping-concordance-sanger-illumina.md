@@ -17,7 +17,7 @@ Here I tested the accuracy of [Heng Li's approach](https://github.com/lh3/bwa/bl
 
 Most probably the new additions correspond to rare haplotypes seen in not so well studied populations, however by increasing the number of HLA haplotypes we increase the power to discriminate between alleles, specially when we try to genotype populations for which the known HLA haplotypes are not so well studied. 
 
-For the comparisons presented here I have used 150 samples from three populations (EUR, EAS, AFR) that have been sequenced by the Polaris project at high-coverage using Illumina sequencing [see here](https://jrodrigoflores.com/posts/2018/11/Polaris-project-diversity-panel/) for details on the data.
+For the comparisons presented here I have used 150 samples from three populations (EUR, EAS, AFR) that have been sequenced by the Polaris project at high-coverage using Illumina sequencing. [See here](https://jrodrigoflores.com/posts/2018/11/Polaris-project-diversity-panel/) for details on the data.
 
 
 References:
