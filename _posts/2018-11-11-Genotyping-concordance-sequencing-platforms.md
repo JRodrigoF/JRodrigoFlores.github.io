@@ -10,7 +10,7 @@ tags:
   - pca
 ---
 
-Using PCA, here I present an overview of the genotype concordance between Illumina ultra high-coverage (~200x), Illumina high-coverage (~30x), Illumina low-coverage (~7x), Complete Genomics high-coverage (versions 2.0 and 2.2, from ~30x to ~87x) and BGIseq-500 high-coverage (PE100, ~37x) platforms/sequencing-runs. For this purpose I used 12 reference samples for which there are available data in at least two or more of the previous technologies. 
+Based on PCA, an overview of the genotype concordance between Illumina ultra high-coverage (~200x), Illumina high-coverage (~30x), Illumina low-coverage (~7x), Complete Genomics high-coverage (versions 2.0 and 2.2, from ~30x to ~87x) and BGIseq-500 high-coverage (PE100, ~37x) platforms/sequencing-runs. For this purpose I used 12 reference samples for which there are available data in at least two or more of the previous technologies. 
 
 
 
