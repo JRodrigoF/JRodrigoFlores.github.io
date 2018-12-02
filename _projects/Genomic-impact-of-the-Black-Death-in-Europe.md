@@ -11,7 +11,7 @@ I am using a panel of Eurasian individuals geographically spanning from Spain to
 
 References:
 
-[1] https://en.wikipedia.org/wiki/Black_Death
+[1] [https://en.wikipedia.org/wiki/Black_Death](https://en.wikipedia.org/wiki/Black_Death)
 
 [2] Zietz, B. P., & Dunkelberg, H. (2004). The history of the plague and the research on the causative agent Yersinia pestis. International Journal of Hygiene and Environmental Health, 207(2), 165–178. [http://doi.org/10.1078/1438-4639-00259](http://doi.org/10.1078/1438-4639-00259)
 
