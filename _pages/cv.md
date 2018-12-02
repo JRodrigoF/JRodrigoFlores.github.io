@@ -21,37 +21,37 @@ Research and Work experience
 <br/>
 ### [2015 - 2017] University of Lausanne, Switzerland
 
-> Marianne Schmid Mast Lab  
-> Department of Organizational Behavior  
-> Job position: Programmer for virtual reality in psychology research. 3D modeling/animation  
+&nbsp;&nbsp;&nbsp;&nbsp;Marianne Schmid Mast Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Organizational Behavior  
+&nbsp;&nbsp;&nbsp;&nbsp;Job position: Programmer for virtual reality in psychology research. 3D modeling/animation  
   
 <br/>  
 ### [2013 - 2015] University of Lausanne, Switzerland
   
-  * Marc Robinson-Rechavi Lab
-  * Department of Ecology and Evolution 
-  * Research topic: Gene expression evolution in _Drosophila_ species. modENCODE data
+&nbsp;&nbsp;&nbsp;&nbsp;Marc Robinson-Rechavi Lab
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Ecology and Evolution 
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression evolution in _Drosophila_ species. modENCODE data
 
 <br/>
 ### [2012 - 2013] National Institute of Genomic Medicine, Mexico
 
-  * Claudia Rangel Lab / Alfredo Hidalgo Lab 
-  * Departments of Computational Biology and Cancer Genomics
-  * Research topic: Copy number variation in Glioblastoma. TCGA data.
+&nbsp;&nbsp;&nbsp;&nbsp;Claudia Rangel Lab / Alfredo Hidalgo Lab 
+&nbsp;&nbsp;&nbsp;&nbsp;Departments of Computational Biology and Cancer Genomics
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Copy number variation in Glioblastoma. TCGA data.
   
 <br/>
 ### [2010 - 2011] Wellcome Trust Sanger Institute, United Kingdom 
 
-  * Chris Tyler-Smith Lab 
-  * Department of Human Genetics
-  * Research topic: Structural variation in Y chromosomes of human populations. 1000G pilot data
+&nbsp;&nbsp;&nbsp;&nbsp;Chris Tyler-Smith Lab 
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Human Genetics
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Structural variation in Y chromosomes of human populations. 1000G pilot data
 
 <br/>
 ### [2009 - 2010] Biotechnology Institute, Mexico 
 
-  * Federico Sanchez Lab 
-  * Department of Plant Molecular Biology
-  * Research topic: Gene expression of microRNAs in soybean. 
+&nbsp;&nbsp;&nbsp;&nbsp;Federico Sanchez Lab 
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Plant Molecular Biology
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression of microRNAs in soybean. 
 
 <br/>
 
