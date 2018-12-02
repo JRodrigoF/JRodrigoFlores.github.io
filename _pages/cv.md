@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* BSc. Genomic Sciences, National Autonomous University of Mexico [2008 - 2012]
-
-<br/>
-
-
 Research and Work experience
 ======
 
@@ -59,6 +52,22 @@ Research and Work experience
   * Federico Sanchez Lab 
   * Department of Plant Molecular Biology
   * Research topic: Gene expression of microRNAs in soybean. 
+
+<br/>
+
+Education
+======
+* BSc. Genomic Sciences, National Autonomous University of Mexico [2008 - 2012]
+
+<br/>
+
+Awards
+======
+* 2010. [Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition)\*
+\* The Sanger prize is a two-stage competition for undergraduate students. The first stage involves research experience (CV),
+reference letters and writing an expression of interest. The second stage involves writing an essay on a given genetics-related
+topic. The winner receives a fully-funded fellowship to do a 3-months research internship. Only one prize is awarded per year.
+
 
 <br/>
 
