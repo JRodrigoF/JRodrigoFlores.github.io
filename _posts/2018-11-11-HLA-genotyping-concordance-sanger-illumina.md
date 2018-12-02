@@ -11,7 +11,7 @@ tags:
   - concordance
 ---
 
-Genotyping HLA alleles in samples that have been sequenced using Illumina short-reads is a challenging and [non-trivial task](http://genestogenomes.org/the-trouble-with-hla-diversity/). Different approaches have been developed in recent years. 
+Genotyping HLA alleles in samples that have been sequenced using Illumina short-reads is a challenging and [non-trivial task](http://genestogenomes.org/the-trouble-with-hla-diversity/). Different approaches have been developed in recent years ([Warren et al (2012)](https://genomemedicine.biomedcentral.com/articles/10.1186/gm396), [Liu et al (2013)](https://academic.oup.com/nar/article/41/14/e142/1750166), [Bai et al (2014)](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-325), [Dilthey et al (2015)](https://www.nature.com/articles/ng.3257#methods), [Xie et al (2017)](http://www.pnas.org/content/114/30/8059.full)). 
 
 Here I tested the accuracy of [Heng Li's approach](https://github.com/lh3/bwa/blob/master/README-alt.md#hla-typing) of using the human genome reference GRC38 with the addition of ALT contigs, decoy sequences, and importantly, an array of ~500 [known HLA haplotypes](https://www.ebi.ac.uk/ipd/imgt/hla/docs/version_r3180.html) taken from the [IPD-IMGT/HLA](https://www.ebi.ac.uk/ipd/imgt/hla/) database (v3.18). I also offer a comparison of whether the genotyping accuracy increases by using the most recent version [v3.34](https://www.ebi.ac.uk/ipd/imgt/hla/docs/version_r3340.html) of the HLA database containing now about ~5000 haplotypes. 
 
@@ -22,7 +22,7 @@ For the comparisons presented here I have used 150 samples from three population
 
 References:
 
-[HLA Diversity in the 1000 Genomes Dataset](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097282)
+Gourraud, P. 2014. [HLA Diversity in the 1000 Genomes Dataset](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0097282)
 
 [bwa/README-alt.md](https://github.com/lh3/bwa/blob/master/README-alt.md#hla-typing)
 
