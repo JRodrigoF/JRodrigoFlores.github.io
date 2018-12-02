@@ -14,9 +14,9 @@ Research and Work experience
 
 ### [2017 - present] Tartu University, Estonia
 
-  * Luca Pagani Lab
-  * Institute of Genomics, Human Evolutionary Genetics Group
-  * Current position: Bioinformatician / Data analyst
+  Luca Pagani Lab
+  Institute of Genomics, Human Evolutionary Genetics Group
+  Current position: Bioinformatician / Data analyst
 
 <br/>
 ### [2015 - 2017] University of Lausanne, Switzerland
@@ -63,11 +63,7 @@ Education
 
 Awards
 ======
-* 2010. [Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition)\*
-\* The Sanger prize is a two-stage competition for undergraduate students. The first stage involves research experience (CV),
-reference letters and writing an expression of interest. The second stage involves writing an essay on a given genetics-related
-topic. The winner receives a fully-funded fellowship to do a 3-months research internship. Only one prize is awarded per year.
-
+* 2010. [Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition)
 
 <br/>
 
