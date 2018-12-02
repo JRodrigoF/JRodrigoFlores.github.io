@@ -15,7 +15,9 @@ Research and Work experience
 ### [2017 - present] Tartu University, Estonia
 
   Luca Pagani Lab
+  
   Institute of Genomics, Human Evolutionary Genetics Group
+  
   Current position: Bioinformatician / Data analyst
 
 <br/>
@@ -63,7 +65,7 @@ Education
 
 Awards
 ======
-* 2010. [Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition)
+* [2010 Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition)
 
 <br/>
 
