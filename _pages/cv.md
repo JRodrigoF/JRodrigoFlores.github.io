@@ -36,34 +36,25 @@ Research and Work experience
 &nbsp;&nbsp;&nbsp;&nbsp;Departments of Computational Biology and Cancer Genomics  
 &nbsp;&nbsp;&nbsp;&nbsp;Research topic: Copy number variation in Glioblastoma. TCGA data  
   
-<br/>
 ### [2010 - 2011] Wellcome Trust Sanger Institute, United Kingdom 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Chris Tyler-Smith Lab  
 &nbsp;&nbsp;&nbsp;&nbsp;Department of Human Genetics  
 &nbsp;&nbsp;&nbsp;&nbsp;Research topic: Structural variation in Y chromosomes of human populations. 1000G pilot data  
 
-<br/>
 ### [2009 - 2010] Biotechnology Institute, Mexico 
 
 &nbsp;&nbsp;&nbsp;&nbsp;Federico Sanchez Lab  
 &nbsp;&nbsp;&nbsp;&nbsp;Department of Plant Molecular Biology  
 &nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression of microRNAs in soybean  
 
-<br/>
-
 Education
 ======
 * BSc. Genomic Sciences, National Autonomous University of Mexico [2008 - 2012]
 
-<br/>
-
 Awards
 ======
 * [2010 Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition) ([link](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition))
-
-<br/>
-
 
 Skills
 ======
@@ -71,14 +62,12 @@ Skills
 &nbsp;&nbsp;&nbsp;&nbsp;Data processing and data analysis of genomic data using python, perl and R  
 &nbsp;&nbsp;&nbsp;&nbsp;Analytical capacity to discuss, carry on, propose new avenues, and drive research  
 
-
 Publications
 ======
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
 
 Talks
 ======
