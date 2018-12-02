@@ -16,8 +16,8 @@ A better tool for Y haplogroup identification compared to the existing ones woul
 
 References:
 
-[yHaplo: Identifying Y-chromosome haplogroups in arbitrarily large samples of sequenced or genotyped men](https://www.biorxiv.org/content/early/2016/11/19/088716)
+Poznik, D. 2016. [yHaplo: Identifying Y-chromosome haplogroups in arbitrarily large samples of sequenced or genotyped men](https://www.biorxiv.org/content/early/2016/11/19/088716)
 
-[YFitter: Maximum likelihood assignment of Y chromosome haplogroups from low-coverage sequence data](https://arxiv.org/abs/1407.7988?context=q-bio.GN)
+Jostins, L. 2014. [YFitter: Maximum likelihood assignment of Y chromosome haplogroups from low-coverage sequence data](https://arxiv.org/abs/1407.7988?context=q-bio.GN)
 
-[Yleaf: Software for Human Y-Chromosomal Haplogroup Inference from Next-Generation Sequencing Data](https://academic.oup.com/mbe/article-abstract/35/5/1291/4922696?redirectedFrom=fulltext)
+Ralf, A. 2018. [Yleaf: Software for Human Y-Chromosomal Haplogroup Inference from Next-Generation Sequencing Data](https://academic.oup.com/mbe/article-abstract/35/5/1291/4922696?redirectedFrom=fulltext)
