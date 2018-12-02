@@ -20,10 +20,10 @@ Research and Work experience
   
 <br/>
 ### [2015 - 2017] University of Lausanne, Switzerland
-  
-  * Marianne Schmid Mast Lab
-  * Department of Organizational Behavior
-  * Job position: Programmer for virtual reality in psychology research. 3D modeling/animation
+
+> Marianne Schmid Mast Lab
+> Department of Organizational Behavior
+> Job position: Programmer for virtual reality in psychology research. 3D modeling/animation
   
 <br/>  
 ### [2013 - 2015] University of Lausanne, Switzerland
