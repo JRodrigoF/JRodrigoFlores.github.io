@@ -18,21 +18,18 @@ Research and Work experience
 &nbsp;&nbsp;&nbsp;&nbsp;Institute of Genomics, Human Evolutionary Genetics Group  
 &nbsp;&nbsp;&nbsp;&nbsp;Current position: Bioinformatician / Data analyst  
   
-<br/>
 ### [2015 - 2017] University of Lausanne, Switzerland
 
 &nbsp;&nbsp;&nbsp;&nbsp;Marianne Schmid Mast Lab  
 &nbsp;&nbsp;&nbsp;&nbsp;Department of Organizational Behavior  
 &nbsp;&nbsp;&nbsp;&nbsp;Job position: Programmer for virtual reality in psychology research. 3D modeling/animation  
   
-<br/>  
 ### [2013 - 2015] University of Lausanne, Switzerland
   
 &nbsp;&nbsp;&nbsp;&nbsp;Marc Robinson-Rechavi Lab  
 &nbsp;&nbsp;&nbsp;&nbsp;Department of Ecology and Evolution  
 &nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression evolution in _Drosophila_ species. modENCODE data  
 
-<br/>
 ### [2012 - 2013] National Institute of Genomic Medicine, Mexico
 
 &nbsp;&nbsp;&nbsp;&nbsp;Claudia Rangel Lab / Alfredo Hidalgo Lab  
