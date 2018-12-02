@@ -14,9 +14,9 @@ Research and Work experience
 
 ### [2017 - present] Tartu University, Estonia
 
-    Luca Pagani Lab  
-    Institute of Genomics, Human Evolutionary Genetics Group  
-    Current position: Bioinformatician / Data analyst  
+&nbsp;&nbsp;&nbsp;&nbsp;Luca Pagani Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;Institute of Genomics, Human Evolutionary Genetics Group  
+&nbsp;&nbsp;&nbsp;&nbsp;Current position: Bioinformatician / Data analyst  
   
 <br/>
 ### [2015 - 2017] University of Lausanne, Switzerland
