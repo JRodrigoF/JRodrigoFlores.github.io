@@ -28,30 +28,30 @@ Research and Work experience
 <br/>  
 ### [2013 - 2015] University of Lausanne, Switzerland
   
-&nbsp;&nbsp;&nbsp;&nbsp;Marc Robinson-Rechavi Lab
-&nbsp;&nbsp;&nbsp;&nbsp;Department of Ecology and Evolution 
-&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression evolution in _Drosophila_ species. modENCODE data
+&nbsp;&nbsp;&nbsp;&nbsp;Marc Robinson-Rechavi Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Ecology and Evolution  
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression evolution in _Drosophila_ species. modENCODE data  
 
 <br/>
 ### [2012 - 2013] National Institute of Genomic Medicine, Mexico
 
-&nbsp;&nbsp;&nbsp;&nbsp;Claudia Rangel Lab / Alfredo Hidalgo Lab 
-&nbsp;&nbsp;&nbsp;&nbsp;Departments of Computational Biology and Cancer Genomics
-&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Copy number variation in Glioblastoma. TCGA data.
+&nbsp;&nbsp;&nbsp;&nbsp;Claudia Rangel Lab / Alfredo Hidalgo Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;Departments of Computational Biology and Cancer Genomics  
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Copy number variation in Glioblastoma. TCGA data  
   
 <br/>
 ### [2010 - 2011] Wellcome Trust Sanger Institute, United Kingdom 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Chris Tyler-Smith Lab 
-&nbsp;&nbsp;&nbsp;&nbsp;Department of Human Genetics
-&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Structural variation in Y chromosomes of human populations. 1000G pilot data
+&nbsp;&nbsp;&nbsp;&nbsp;Chris Tyler-Smith Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Human Genetics  
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Structural variation in Y chromosomes of human populations. 1000G pilot data  
 
 <br/>
 ### [2009 - 2010] Biotechnology Institute, Mexico 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Federico Sanchez Lab 
-&nbsp;&nbsp;&nbsp;&nbsp;Department of Plant Molecular Biology
-&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression of microRNAs in soybean. 
+&nbsp;&nbsp;&nbsp;&nbsp;Federico Sanchez Lab  
+&nbsp;&nbsp;&nbsp;&nbsp;Department of Plant Molecular Biology  
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression of microRNAs in soybean  
 
 <br/>
 
@@ -71,8 +71,8 @@ Awards
 Skills
 ======
 
-* Data processing and data analysis of genomic data using python, perl and R
-* Analytical capacity to discuss, carry on, propose new avenues, and drive research.
+&nbsp;&nbsp;&nbsp;&nbsp;Data processing and data analysis of genomic data using python, perl and R  
+&nbsp;&nbsp;&nbsp;&nbsp;Analytical capacity to discuss, carry on, propose new avenues, and drive research  
 
 
 Publications
