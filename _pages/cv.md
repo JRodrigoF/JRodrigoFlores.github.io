@@ -50,11 +50,11 @@ Research and Work experience
 
 Education
 ======
-* BSc. Genomic Sciences, National Autonomous University of Mexico [2008 - 2012]
+* BSc. Genomic Sciences, National Autonomous University of Mexico [2008 - 2012]  
 
 Awards
 ======
-* [2010 Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition) ([link](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition))
+* [2010 Wellcome Trust Sanger Institute Prize](https://www.sanger.ac.uk/about/study/sanger-institute-prize-competition)  
 
 Skills
 ======
