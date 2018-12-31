@@ -32,11 +32,9 @@ X chromosome
 
 [A Pseudohitchhiking Model of X vs. Autosomal Diversity](http://www.genetics.org/content/168/4/2261)
 
-
 [Contrasting X-Linked and Autosomal Diversity across 14 Human Populations](https://www.sciencedirect.com/science/article/pii/S0002929714001839?via%3Dihub)
 
 [Why the human X chromosome is less diverse](http://blogs.discovermagazine.com/gnxp/2011/07/why-the-human-x-chromosome-is-less-diverse/)
-
 
 [Neutral genomic regions refine models of recent rapid human population growth](https://www.pnas.org/content/111/2/757.long)
 
@@ -65,7 +63,17 @@ X chromosome
 [The utility of ancient human DNA for improving allele age estimates, with implications for demographic models and tests of natural selection](https://www.sciencedirect.com/science/article/pii/S0047248414002504?via%3Dihub)
 
 
+America Population Genetics
 
+[Inferring sex-specific demographic history from SNP data](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007191)
+
+[Bayesian Estimation of Recent Migration Rates After a Spatial Expansion](http://www.genetics.org/content/170/1/409)
+
+[Latin Americans show wide-spread Converso ancestry and imprint of local Native ancestry on physical appearance](https://www.nature.com/articles/s41467-018-07748-z)
+
+[Genome-wide patterns of population structure and admixture among Hispanic/Latino populations](https://www.pnas.org/content/107/Supplement_2/8954.long)
+
+[Genomic Insights into the Ancestry and Demographic History of South America](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
 
 
 Snakemake
