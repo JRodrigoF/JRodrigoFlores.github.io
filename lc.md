@@ -9,13 +9,16 @@ Human Genomics
 [A haplotype map of the human genome](https://www.nature.com/articles/nature04226#s1)
 
 X chromosome
+
 [Extreme selective sweeps displaced archaic admixture across the human X chromosome around 50,000 years ago](https://www.biorxiv.org/content/biorxiv/early/2018/12/23/503995.full.pdf)
 
 
 
 Snakemake
+
 [Rules](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html)
 
 Git
+
 [Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
 
