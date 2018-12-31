@@ -8,9 +8,63 @@ Human Genomics
 
 [A haplotype map of the human genome](https://www.nature.com/articles/nature04226#s1)
 
+[The Simons Genome Diversity Project: 300 genomes from 142 diverse populations](https://www.nature.com/articles/nature18964?WT.ec_id=NATURE-20160922&spMailingID=52357585&spUserID=MzA0ODA0NjE2NDQS1&spJobID=1003755044&spReportId=MTAwMzc1NTA0NAS2)
+
+[The Simons Genome Diversity Project: 300 genomes from 142 diverse populations - Supp](https://media.nature.com/original/nature-assets/nature/journal/v538/n7624/extref/nature18964-s1.pdf)
+
+
+
+
+
 X chromosome
 
 [Extreme selective sweeps displaced archaic admixture across the human X chromosome around 50,000 years ago](https://www.biorxiv.org/content/biorxiv/early/2018/12/23/503995.full.pdf)
+
+[Accelerated genetic drift on chromosome X during the human dispersal out of Africa](https://www.nature.com/articles/ng.303)
+
+[The ratio of human X chromosome to autosome diversity is positively correlated with genetic distance from genes](https://www.nature.com/articles/ng.651)
+
+[Analyses of X-linked and autosomal genetic variation in population-scale whole genome sequencing](https://www.nature.com/articles/ng.877)
+
+[Sex-Biased Evolutionary Forces Shape Genomic Patterns of Human Diversity](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000202)
+
+[Evaluating signatures of sex-specific processes in the human genome](https://www.nature.com/articles/ng0109-8)
+
+[A Pseudohitchhiking Model of X vs. Autosomal Diversity](http://www.genetics.org/content/168/4/2261)
+
+
+[Contrasting X-Linked and Autosomal Diversity across 14 Human Populations](https://www.sciencedirect.com/science/article/pii/S0002929714001839?via%3Dihub)
+
+[Why the human X chromosome is less diverse](http://blogs.discovermagazine.com/gnxp/2011/07/why-the-human-x-chromosome-is-less-diverse/)
+
+
+[Neutral genomic regions refine models of recent rapid human population growth](https://www.pnas.org/content/111/2/757.long)
+
+[Sex-Averaged Recombination and Mutation Rates on the X Chromosome: A Comment on Labuda et al.](https://www.sciencedirect.com/science/article/pii/S0002929710002594?via%3Dihub)
+
+[Human Population Differentiation Is Strongly Correlated with Local Recombination Rate](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000886)
+
+[Can a Sex-Biased Human Demography Account for the Reduced Effective Population Size of Chromosome X in Non-Africans?](https://academic.oup.com/mbe/article/27/10/2312/966445)
+
+[Detecting natural selection by empirical comparison to random regions of the genome](https://academic.oup.com/hmg/article/18/24/4853/582917)
+
+[Measurement of the human allele frequency spectrum demonstrates greater genetic drift in East Asians than in Europeans](https://www.nature.com/articles/ng2116)
+
+[Genetic Diversity on the Sex Chromosomes](https://academic.oup.com/gbe/article/10/4/1064/4895090)
+
+[The different levels of genetic diversity in sex chromosomes and autosomes](https://www.sciencedirect.com/science/article/pii/S0168952509000900)
+
+[Contrasting X-Linked and Autosomal Diversity across 14 Human Populations](https://www.sciencedirect.com/science/article/pii/S0002929714001839)
+
+[On the origin of modern humans: Asian perspectives](http://science.sciencemag.org/content/358/6368/eaai9067/tab-pdf)
+
+[Explosive genetic evidence for explosive human population growth](https://www.sciencedirect.com/science/article/pii/S0959437X16301137?via%3Dihub)
+
+[Population Genomic Analysis of 962 Whole Genome Sequences of Humans Reveals Natural Selection in Non-Coding Regions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121644)
+
+[The utility of ancient human DNA for improving allele age estimates, with implications for demographic models and tests of natural selection](https://www.sciencedirect.com/science/article/pii/S0047248414002504?via%3Dihub)
+
+
 
 
 
