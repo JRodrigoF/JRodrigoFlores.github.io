@@ -4,6 +4,10 @@ excerpt: " "
 collection: lc
 ---
 
+Human Genomics
+
+[A haplotype map of the human genome](https://www.nature.com/articles/nature04226#s1)
+
 X chromosome
 [Extreme selective sweeps displaced archaic admixture across the human X chromosome around 50,000 years ago](https://www.biorxiv.org/content/biorxiv/early/2018/12/23/503995.full.pdf)
 
