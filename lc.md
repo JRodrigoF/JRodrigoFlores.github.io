@@ -13,7 +13,21 @@ Human Genomics
 [The Simons Genome Diversity Project: 300 genomes from 142 diverse populations - Supp](https://media.nature.com/original/nature-assets/nature/journal/v538/n7624/extref/nature18964-s1.pdf)
 
 
+Africa population genetics
 
+[Genomic Variation in Seven Khoe-San Groups Reveals Adaptation and Complex African History](http://science.sciencemag.org/content/338/6105/374)
+
+[Southern African ancient genomes estimate modern human divergence to 350,000 to 260,000 years ago](http://science.sciencemag.org/content/early/2017/09/27/science.aao6266)
+
+[Static and Moving Frontiers: The Genetic Landscape of Southern African Bantu-Speaking Populations](https://academic.oup.com/mbe/article/32/1/29/2925531)
+
+[African signatures of recent positive selection in human FOXI1](https://bmcevolbiol.biomedcentral.com/articles/10.1186/1471-2148-10-267)
+
+[The evolutionary history of Southern Africa](https://www.sciencedirect.com/science/article/pii/S0959437X18300649?dgcid=raven_sd_via_email)
+
+[Genome-Wide SNP Analysis of Southern African Populations Provides New Insights into the Dispersal of Bantu-Speaking Groups](https://academic.oup.com/gbe/article/7/9/2560/591492)
+
+[]
 
 
 X chromosome
