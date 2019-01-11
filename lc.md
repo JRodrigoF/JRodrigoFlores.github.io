@@ -89,6 +89,11 @@ America Population Genetics
 
 [Genomic Insights into the Ancestry and Demographic History of South America](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
 
+de Novo Assemblying using long reads
+
+[Selective single molecule sequencing and assembly of a human Y chromosome of African origin](https://www.nature.com/articles/s41467-018-07885-5?WT.feed_name=subjects_computational-biology-and-bioinformatics#Sec9)
+
+[Efficiency of PacBio long read correction by 2nd generation Illumina sequencing](https://www.sciencedirect.com/science/article/pii/S0888754317301660?dgcid=rss_sd_all)
 
 Snakemake
 
