@@ -89,6 +89,8 @@ America Population Genetics
 
 [Genomic Insights into the Ancestry and Demographic History of South America](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
 
+[Elevated male European and female African contributions to the genomes of African American individuals](https://link.springer.com/article/10.1007%2Fs00439-006-0261-7)
+
 de Novo Assemblying using long reads
 
 [Selective single molecule sequencing and assembly of a human Y chromosome of African origin](https://www.nature.com/articles/s41467-018-07885-5?WT.feed_name=subjects_computational-biology-and-bioinformatics#Sec9)
