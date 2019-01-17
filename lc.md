@@ -91,6 +91,13 @@ America Population Genetics
 
 [Elevated male European and female African contributions to the genomes of African American individuals](https://link.springer.com/article/10.1007%2Fs00439-006-0261-7)
 
+MX PopGen
+
+[Analysis of genomic diversity in Mexican Mestizo populations to develop genomic medicine in Mexico](https://www.pnas.org/content/106/21/8611.full)
+
+[Demographic history and biologically relevant genetic variation of Native Mexicans inferred from whole-genome sequencing](https://www.nature.com/articles/s41467-017-01194-z)
+
+
 de Novo Assemblying using long reads
 
 [Selective single molecule sequencing and assembly of a human Y chromosome of African origin](https://www.nature.com/articles/s41467-018-07885-5?WT.feed_name=subjects_computational-biology-and-bioinformatics#Sec9)
