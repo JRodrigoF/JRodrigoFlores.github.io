@@ -87,6 +87,8 @@ America Population Genetics
 
 [Genome-wide patterns of population structure and admixture among Hispanic/Latino populations](https://www.pnas.org/content/107/Supplement_2/8954.long)
 
+[Supp](https://www.pnas.org/content/pnas/suppl/2009/12/14/0909559107.DCSupplemental/stxt01.pdf)
+
 [Genomic Insights into the Ancestry and Demographic History of South America](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
 
 [Elevated male European and female African contributions to the genomes of African American individuals](https://link.springer.com/article/10.1007%2Fs00439-006-0261-7)
