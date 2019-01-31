@@ -93,7 +93,14 @@ America Population Genetics
 
 [Elevated male European and female African contributions to the genomes of African American individuals](https://link.springer.com/article/10.1007%2Fs00439-006-0261-7)
 
-MX PopGen
+EE
+
+[Population genomics of Mesolithic Scandinavia: Investigating early postglacial migration routes and high-latitude adaptation](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.2003703)
+
+[Reconstructing genetic history of Siberian and Northeastern European populations](https://genome.cshlp.org/content/27/1/1)
+
+[Ancient Fennoscandian genomes reveal origin and spread of Siberian ancestry in Europe](https://www.nature.com/articles/s41467-018-07483-5)
+MX
 
 [Analysis of genomic diversity in Mexican Mestizo populations to develop genomic medicine in Mexico](https://www.pnas.org/content/106/21/8611.full)
 
