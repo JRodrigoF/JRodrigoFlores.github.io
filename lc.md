@@ -118,6 +118,18 @@ Admixture
 
 [Admixture 1.3 Software Manual](https://vcru.wisc.edu/simonlab/bioinformatics/programs/admixture/admixture-manual.pdf)
 
+Population history
+
+[Efficiently inferring the demographic history of many populations with allele count data](Efficiently inferring the demographic history of many populations with allele count data)
+
+[Inferring the Joint Demographic History of Multiple Populations from Multidimensional SNP Frequency Data](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000695)
+
+[Inferring the Joint Demographic History of Multiple Populations: Beyond the Diffusion Approximation](http://www.genetics.org/content/206/3/1549)
+
+[Momi documentation](https://momi2.readthedocs.io/en/latest/)
+
+[Momi Github](https://github.com/popgenmethods/momi2)
+
 Clustering
 
 [CLUMPP 1.1.2](https://web.stanford.edu/group/rosenberglab/software/CLUMPP_Manual.pdf)
