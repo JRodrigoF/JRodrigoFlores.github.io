@@ -118,6 +118,12 @@ Admixture
 
 [Admixture 1.3 Software Manual](https://vcru.wisc.edu/simonlab/bioinformatics/programs/admixture/admixture-manual.pdf)
 
+Clustering
+
+[CLUMPP 1.1.2](https://web.stanford.edu/group/rosenberglab/software/CLUMPP_Manual.pdf)
+
+[CLUMPAK, version 1.1](http://clumpak.tau.ac.il/download/CLUMPAK_Documentation.pdf)
+
 Snakemake
 
 [Rules](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html)
