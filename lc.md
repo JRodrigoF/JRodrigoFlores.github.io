@@ -132,3 +132,6 @@ Git
 
 [Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
 
+R
+
+[Color Palette Cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
