@@ -147,3 +147,7 @@ Git
 R
 
 [Color Palette Cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
+
+[Color Palette](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
+
+[ggplot2 reference](https://ggplot2.tidyverse.org/reference/index.html)
