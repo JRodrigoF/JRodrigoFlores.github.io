@@ -131,7 +131,7 @@ Admixture
 
 Population history
 
-[Efficiently inferring the demographic history of many populations with allele count data](Efficiently inferring the demographic history of many populations with allele count data)
+[Efficiently inferring the demographic history of many populations with allele count data](https://www.biorxiv.org/content/10.1101/287268v1)
 
 [Inferring the Joint Demographic History of Multiple Populations from Multidimensional SNP Frequency Data](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000695)
 
