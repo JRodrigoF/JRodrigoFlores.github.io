@@ -107,6 +107,17 @@ MX
 
 [Demographic history and biologically relevant genetic variation of Native Mexicans inferred from whole-genome sequencing](https://www.nature.com/articles/s41467-017-01194-z)
 
+Scyth
+
+[137 ancient human genomes from across the Eurasian steppes](https://www.nature.com/articles/s41586-018-0094-2)
+
+[The first horse herders and the impact of early Bronze Age steppe expansions into Asia](http://science.sciencemag.org/content/360/6396/eaar7711)
+
+[Ancient genomes suggest the eastern Pontic-Caspian steppe as the source of western Iron Age Nomads](http://advances.sciencemag.org/content/4/10/eaat4457)
+
+[Ancient genomic changes associated with domestication of the horse](http://science.sciencemag.org/content/356/6336/442)
+
+[Ancestry and demography and descendants of Iron Age nomads of the Eurasian Steppe](https://www.nature.com/articles/ncomms14615)
 
 de Novo Assemblying using long reads
 
