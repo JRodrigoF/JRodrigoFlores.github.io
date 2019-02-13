@@ -125,6 +125,8 @@ de Novo Assemblying using long reads
 
 [Efficiency of PacBio long read correction by 2nd generation Illumina sequencing](https://www.sciencedirect.com/science/article/pii/S0888754317301660?dgcid=rss_sd_all)
 
+[Characterizing the genetic history of admixture across inner Eurasia](https://www.biorxiv.org/content/10.1101/327122v1)
+
 Admixture
 
 [Admixture 1.3 Software Manual](https://vcru.wisc.edu/simonlab/bioinformatics/programs/admixture/admixture-manual.pdf)
