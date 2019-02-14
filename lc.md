@@ -36,6 +36,8 @@ Africa population genetics
 
 X chromosome
 
+[Signatures of replication, recombination and sex in the spectrum of rare variants on the human X chromosome and autosomes](https://www.biorxiv.org/content/10.1101/519421v1?rss=1)
+
 [Extreme selective sweeps displaced archaic admixture across the human X chromosome around 50,000 years ago](https://www.biorxiv.org/content/biorxiv/early/2018/12/23/503995.full.pdf)
 
 [Accelerated genetic drift on chromosome X during the human dispersal out of Africa](https://www.nature.com/articles/ng.303)
