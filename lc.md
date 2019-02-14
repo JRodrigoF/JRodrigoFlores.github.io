@@ -8,6 +8,10 @@ Human Genomics
 
 [A haplotype map of the human genome](https://www.nature.com/articles/nature04226#s1)
 
+[Genomic analyses inform on migration events during the peopling of Eurasia](https://www.nature.com/articles/nature19792)
+
+[Genomic analyses inform on migration events during the peopling of Eurasia - Supp](https://media.nature.com/original/nature-assets/nature/journal/v538/n7624/extref/nature19792-s1.pdf)
+
 [The Simons Genome Diversity Project: 300 genomes from 142 diverse populations](https://www.nature.com/articles/nature18964?WT.ec_id=NATURE-20160922&spMailingID=52357585&spUserID=MzA0ODA0NjE2NDQS1&spJobID=1003755044&spReportId=MTAwMzc1NTA0NAS2)
 
 [The Simons Genome Diversity Project: 300 genomes from 142 diverse populations - Supp](https://media.nature.com/original/nature-assets/nature/journal/v538/n7624/extref/nature18964-s1.pdf)
