@@ -31,9 +31,6 @@ Africa population genetics
 
 [Genome-Wide SNP Analysis of Southern African Populations Provides New Insights into the Dispersal of Bantu-Speaking Groups](https://academic.oup.com/gbe/article/7/9/2560/591492)
 
-[]
-
-
 X chromosome
 
 [Signatures of replication, recombination and sex in the spectrum of rare variants on the human X chromosome and autosomes](https://www.biorxiv.org/content/10.1101/519421v1?rss=1)
@@ -81,6 +78,8 @@ X chromosome
 [Population Genomic Analysis of 962 Whole Genome Sequences of Humans Reveals Natural Selection in Non-Coding Regions](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0121644)
 
 [The utility of ancient human DNA for improving allele age estimates, with implications for demographic models and tests of natural selection](https://www.sciencedirect.com/science/article/pii/S0047248414002504?via%3Dihub)
+
+[A test for Hardy-Weinberg equilibrium on the X chromosome for sex-biased admixed populations](https://www.biorxiv.org/content/10.1101/552794v1?rss=1)
 
 
 America Population Genetics
@@ -145,9 +144,11 @@ Population history
 
 [Inferring the Joint Demographic History of Multiple Populations: Beyond the Diffusion Approximation](http://www.genetics.org/content/206/3/1549)
 
-[Momi documentation](https://momi2.readthedocs.io/en/latest/)
+[Momi2 documentation](https://momi2.readthedocs.io/en/latest/)
 
-[Momi Github](https://github.com/popgenmethods/momi2)
+[Momi2 Github](https://github.com/popgenmethods/momi2)
+
+[Momi2 Tutorial](https://momi2.readthedocs.io/en/latest/tutorial.html)
 
 Clustering
 
@@ -165,8 +166,42 @@ Git
 
 R
 
+[The R Manuals](https://cran.r-project.org/manuals.html)
+
+[R FAQ](https://cran.r-project.org/doc/FAQ/R-FAQ.html)
+
+[Books related to R](https://www.r-project.org/doc/bib/R-books.html)
+
 [Color Palette Cheatsheet](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/colorPaletteCheatsheet.pdf)
 
 [Color Palette](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf)
 
 [ggplot2 reference](https://ggplot2.tidyverse.org/reference/index.html)
+
+Markdown
+
+[R MarkdownReference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+[R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+[R Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax)
+
+VCF
+
+[The Variant Call Format (VCF) Version 4.1 Specification](https://samtools.github.io/hts-specs/VCFv4.1.pdf)
+
+[The Variant Call Format (VCF) Version 4.2 Specification](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
+
+[The Variant Call Format (VCF) Version 4.3 Specification](https://samtools.github.io/hts-specs/VCFv4.3.pdf)
+
+Statistics
+
+[The Elements of Statistical Learning](http://www.web.stanford.edu/~hastie/ElemStatLearn/)
+
+[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/code.html)
+
+Mutational Signatures
+
+[Smaug Genetics](https://github.com/carjed/smaug-genetics)
+
+[Jedidiah Carlson Web page](https://www.jedidiahcarlson.com)
+
+[Mutation Rate Browser](http://mutation.sph.umich.edu/)
