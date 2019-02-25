@@ -126,11 +126,35 @@ Scyth
 
 de Novo Assemblying using long reads
 
+South East Asia
+
+[Genomic insights into the peopling of the Southwest Pacific](https://www.nature.com/articles/nature19844)
+
+[Language continuity despite population replacement in Remote Oceania](https://www.nature.com/articles/s41559-018-0498-2)
+
+[]()
+
+[]()
+
+[]()
+
+Y Chromosome
+
+[]()
+
+[]()
+
+[]()
+
+[Introduction to the BigY](https://www.familytreedna.com/learn/wp-content/uploads/2016/01/BIG_Y_WhitePager.pdf)
+
 [Selective single molecule sequencing and assembly of a human Y chromosome of African origin](https://www.nature.com/articles/s41467-018-07885-5?WT.feed_name=subjects_computational-biology-and-bioinformatics#Sec9)
 
 [Efficiency of PacBio long read correction by 2nd generation Illumina sequencing](https://www.sciencedirect.com/science/article/pii/S0888754317301660?dgcid=rss_sd_all)
 
 [Characterizing the genetic history of admixture across inner Eurasia](https://www.biorxiv.org/content/10.1101/327122v1)
+
+########################################
 
 Admixture
 
@@ -164,6 +188,14 @@ Git
 
 [Cheat sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)
 
+Databases
+
+[PopHumanScan](https://pophumanscan.uab.cat/index.php)
+
+Programming
+
+[How to Design Programs](https://htdp.org/2003-09-26/)
+
 R
 
 [The R Manuals](https://cran.r-project.org/manuals.html)
@@ -178,13 +210,74 @@ R
 
 [ggplot2 reference](https://ggplot2.tidyverse.org/reference/index.html)
 
+[Unpacking S4 Objects in R](https://homolog.us/blogs/bioinfo/2019/02/22/Unpacking-S4-Vectors)
+
+
 Markdown
 
 [R MarkdownReference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+
 [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
+
 [R Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax)
 
-VCF
+Unix / Linux
+
+[Linux command.org](http://linuxcommand.org)
+
+[Explain shell.com](https://explainshell.com)
+
+[Unix/Linux Command Reference](https://files.fosswire.com/2007/08/fwunixref.pdf)
+
+[Treebeard's Unix Cheat Sheet](http://www.rain.org/~mkummel/unix.html)
+
+
+Bash
+
+[Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html)
+
+[BASH Programming - Introduction HOW-TO](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
+
+[Shell Scripting Tutorial](https://www.shellscript.sh)
+
+[The Bash Guide](https://guide.bash.academy)
+
+[Bash scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
+
+[A quick guide to writing scripts using the bash shell](http://www.panix.com/~elflord/unix/bash-tute.html)
+
+[Linux Shell Scripting Tutorial v1.05r3](http://www.freeos.com/guides/lsst)
+
+[Bash Guide for Beginners](http://tille.garrels.be/training/bash)
+
+[Beginners/BashScripting](https://help.ubuntu.com/community/Beginners/BashScripting)
+
+[]()
+
+AWK
+
+[Awk](http://www.grymoire.com/Unix/Awk.html)
+
+[Simple awk tutorial](http://www.hcs.harvard.edu/~dholland/computers/awk.html)
+
+[]()
+[]()
+[]()
+[]()
+
+SED
+
+[Sed](https://www.panix.com/~elflord/unix/sed.html)
+
+[Sed - An Introduction and Tutorial by Bruce Barnett](http://www.grymoire.com/Unix/Sed.html)
+
+[]()
+[]()
+[]()
+[]()
+
+
+BCFTOOLS / VCF
 
 [The Variant Call Format (VCF) Version 4.1 Specification](https://samtools.github.io/hts-specs/VCFv4.1.pdf)
 
@@ -192,11 +285,19 @@ VCF
 
 [The Variant Call Format (VCF) Version 4.3 Specification](https://samtools.github.io/hts-specs/VCFv4.3.pdf)
 
+[Bcftools](https://samtools.github.io/bcftools)
+
 Statistics
 
-[The Elements of Statistical Learning](http://www.web.stanford.edu/~hastie/ElemStatLearn/)
+[The Elements of Statistical Learning](http://www.web.stanford.edu/~hastie/ElemStatLearn)
 
-[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/code.html)
+[An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/index.html)
+
+[Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/introduction.html)
+
+[SticiGui - Philip B. Stark](https://www.stat.berkeley.edu/~stark/SticiGui/Text/toc.htm)
+
+[Statistics for Genomic Data Science - Jeff Leek](http://jtleek.com/genstats_site)
 
 Mutational Signatures
 
@@ -205,3 +306,51 @@ Mutational Signatures
 [Jedidiah Carlson Web page](https://www.jedidiahcarlson.com)
 
 [Mutation Rate Browser](http://mutation.sph.umich.edu/)
+
+[International Standard ISO 80000-2](https://people.engr.ncsu.edu/jwilson/files/mathsigns.pdf)
+
+########################################
+
+Illumina
+
+[NovaSeq 6000 Sequencing System](https://sapac.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/novaseq-6000-system-specification-sheet-770-2016-025.pdf)
+
+[Human Whole-Genome Sequencing with the HiSeq X Sequencing System](https://www.illumina.com/content/dam/illumina-marketing/documents/products/appnotes/appnote-hiseq-x.pdf)
+
+[HiSeq X Series of Sequencing Systems](https://www.illumina.com/documents/products/datasheets/datasheet-hiseq-x-ten.pdf)
+
+[NextSeq 500 Sequencing System](https://production.wordpress.uconn.edu/cagt/wp-content/uploads/sites/255/2014/08/NextSeq500_Datasheet.pdf)
+
+[HiSeq 2500 Sequencing System](https://www.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/datasheet-hiseq-2500.pdf)
+
+[HiSeq 2000 Sequencing System](https://www.illumina.com/documents/products/datasheets/datasheet_hiseq2000.pdf)
+
+[Illumina Two-Channel SBS Sequencing Technology](https://production.wordpress.uconn.edu/cagt/wp-content/uploads/sites/255/2014/08/NextSeq_2channel_SBS.pdf)
+
+
+Combinatorics
+
+[Combinatorics ](https://www.math.ucsd.edu/~gptesler/186/slides/bday_18-handout.pdf)
+
+[Applications of Combinatorics to Molecular Biology](https://dornsife.usc.edu/assets/sites/516/docs/papers/msw_papers/msw-129.pdf)
+
+[Combinatorial Pattern Matching](http://bix.ucsd.edu/bioalgorithms/presentations/Ch09_CombinatorialPatternMatching.pdf)
+
+[ASCII](https://en.wikipedia.org/wiki/ASCII)
+
+[ASCII Code - The extended ASCII table](https://www.ascii-code.com)
+
+[The Future Under a Microscope](http://www.scienceclarified.com/scitech/Bacteria-and-Viruses/The-Future-Under-a-Microscope.html)
+
+[Scientists Turn Bacteria Into Living Hard Drives](https://www.popularmechanics.com/science/animals/a21268/scientists-turn-bacteria-into-living-hard-drives)
+
+[Molecular recordings by directed CRISPR spacer acquisition](http://science.sciencemag.org/content/353/6298/aaf1175)
+
+[Next-Generation Digital Information Storage in DNA](http://science.sciencemag.org/content/337/6102/1628?ijkey=431f36bcb4562ea870ff60a42a9225aeb2aa5e53&keytype2=tf_ipsecsha)
+
+[Long-Term Storage of Information in DNA](http://science.sciencemag.org/content/293/5536/1763.3)
+
+[Text Of A Full Book Encoded In DNA](http://planetsave.com/2012/08/18/text-of-a-full-book-encoded-in-dna)
+
+[C Program to Find ASCII Value of a Character](https://www.programiz.com/c-programming/examples/ASCII-value-character)
+[]()
