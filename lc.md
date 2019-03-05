@@ -194,7 +194,21 @@ Databases
 
 Programming
 
-[How to Design Programs](https://htdp.org/2003-09-26/)
+[How to Design Programs](https://htdp.org/2003-09-26)
+
+[Modular code development](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md/#1)
+[]()
+[]()
+[]()
+
+Python
+
+[PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008)
+
+[yapf - A formatter for Python files](https://github.com/google/yapf)
+
+[]()
+[]()
 
 R
 
@@ -287,6 +301,8 @@ BCFTOOLS / VCF
 
 [Bcftools](https://samtools.github.io/bcftools)
 
+[BCFtools HowTo](https://samtools.github.io/bcftools/howtos/index.html)
+
 Statistics
 
 [The Elements of Statistical Learning](http://www.web.stanford.edu/~hastie/ElemStatLearn)
@@ -353,4 +369,45 @@ Combinatorics
 [Text Of A Full Book Encoded In DNA](http://planetsave.com/2012/08/18/text-of-a-full-book-encoded-in-dna)
 
 [C Program to Find ASCII Value of a Character](https://www.programiz.com/c-programming/examples/ASCII-value-character)
+[]()
+
+Drosophila
+
+[Latitudinal clines in gene expression and cis-regulatory element variation in Drosophila melanogaster ](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-016-3333-7)
+
+[Gene expression changes in male accessory glands during ageing are accompanied by reproductive decline in Drosophila melanogaster](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.14384)
+
+[Rapid evolution of male-biased gene expression in Drosophila](https://www.pnas.org/content/100/17/9894.short)
+
+[GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE44612)
+
+[Effects of temperature on cuticular lipids and water balance in a desert Drosophila: is thermal acclimation beneficial?](http://jeb.biologists.org/content/201/1/71.long)
+
+[Involvement of chitin in exoskeleton morphogenesis in Drosophila melanogaster](https://onlinelibrary.wiley.com/doi/abs/10.1002/jmor.10324)
+
+[Dr. Itai Yanai - Evolution of developmental gene expression programs](https://www.youtube.com/watch?v=7mMdA4kSGWk)
+
+[Phylogenetic ANOVA: The Expression Variance and Evolution Model for Quantitative Trait Evolution ](https://academic.oup.com/sysbio/article/64/5/695/1686874)
+
+[Functional genomics of cactus host shifts in Drosophila mojavensis](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-294X.2006.03102.x)
+
+[Genomics of Ecological Adaptation in Cactophilic Drosophila](https://academic.oup.com/gbe/article/7/1/349/603750)
+
+[The cuticle proteins of Drosophila melanogaster: Stage specificity](https://www.sciencedirect.com/science/article/pii/0012160682903268)
+
+[Cuticle Preparation of Drosophila Embryos and Larvae](https://link.springer.com/protocol/10.1007%2F978-1-59745-583-1_11)
+
+[A phylogenetically based transcriptome age index mirrors ontogenetic divergence patterns](https://www.nature.com/articles/nature09632)
+
+[Gene expression divergence recapitulates the developmental hourglass model](https://www.nature.com/articles/nature09634)
+
+[Developmental Constraints on Vertebrate Genome Evolution](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000311)
+
+[The Hourglass and the Early Conservation Models—Co-Existing Patterns of Developmental Constraints in Vertebrates](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003476)
+
+[Unmodern Synthesis: Developmental Hierarchies and the Origin of Phenotypes](https://onlinelibrary.wiley.com/doi/full/10.1002/bies.201600265)
+
+[Positional information and reaction-diffusion: two big ideas in developmental biology combine](http://dev.biologists.org/content/142/7/1203)
+
+[]()
 []()
