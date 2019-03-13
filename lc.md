@@ -31,6 +31,12 @@ Africa population genetics
 
 [Genome-Wide SNP Analysis of Southern African Populations Provides New Insights into the Dispersal of Bantu-Speaking Groups](https://academic.oup.com/gbe/article/7/9/2560/591492)
 
+[Genomic evidence for shared common ancestry of East African hunting-gathering populations and insights into local adaptation](https://www.pnas.org/content/116/10/4166)
+
+[]()
+[]()
+[]()
+
 X chromosome
 
 [Signatures of replication, recombination and sex in the spectrum of rare variants on the human X chromosome and autosomes](https://www.biorxiv.org/content/10.1101/519421v1?rss=1)
@@ -140,11 +146,17 @@ South East Asia
 
 Y Chromosome
 
-[]()
+[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences](https://www.nature.com/articles/ng.3559)
 
-[]()
+[Punctuated bursts in human male demography inferred from 1,244 worldwide Y-chromosome sequences - Supp](https://media.nature.com/original/nature-assets/ng/journal/v48/n6/extref/ng.3559-S1.pdf)
 
-[]()
+[Figure 2: Y-chromosome phylogeny and haplogroup distribution](https://www.nature.com/articles/ng.3559/figures/2)
+
+[A recent bottleneck of Y chromosome diversity coincides with a global change in culture](https://genome.cshlp.org/content/25/4/459.full)
+
+[A recent bottleneck of Y chromosome diversity coincides with a global change in culture - Supp](https://genome.cshlp.org/content/suppl/2015/02/18/gr.186684.114.DC1/Supplemental_Figures.pdf)
+
+[A recent bottleneck of Y chromosome diversity coincides with a global change in culture - Supp](https://genome.cshlp.org/content/suppl/2015/02/18/gr.186684.114.DC1/Supplemental_Figures.pdf)
 
 [Introduction to the BigY](https://www.familytreedna.com/learn/wp-content/uploads/2016/01/BIG_Y_WhitePager.pdf)
 
@@ -183,6 +195,10 @@ Clustering
 Snakemake
 
 [Rules](https://snakemake.readthedocs.io/en/stable/snakefiles/rules.html)
+
+SLURM
+
+[Slurm](https://slurm.schedmd.com)
 
 Git
 
@@ -226,7 +242,6 @@ R
 
 [Unpacking S4 Objects in R](https://homolog.us/blogs/bioinfo/2019/02/22/Unpacking-S4-Vectors)
 
-
 Markdown
 
 [R MarkdownReference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
@@ -245,6 +260,9 @@ Unix / Linux
 
 [Treebeard's Unix Cheat Sheet](http://www.rain.org/~mkummel/unix.html)
 
+[Screen User’s Manual](https://www.gnu.org/software/screen/manual/screen.html)
+
+[Linux screen command](https://www.computerhope.com/unix/screen.htm)
 
 Bash
 
@@ -409,5 +427,17 @@ Drosophila
 
 [Positional information and reaction-diffusion: two big ideas in developmental biology combine](http://dev.biologists.org/content/142/7/1203)
 
+[Cell membrane proteins with high N-glycosylation, high expression and multiple interaction partners are preferred by mammalian viruses as receptors](https://academic.oup.com/bioinformatics/article/35/5/723/5068594)
 []()
-[]()
+
+
+
+
+
+
+
+
+
+
+
+
