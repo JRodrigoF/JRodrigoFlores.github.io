@@ -16,7 +16,7 @@ Research and Work experience
 
 &nbsp;&nbsp;&nbsp;&nbsp;Luca Pagani Lab  
 &nbsp;&nbsp;&nbsp;&nbsp;Institute of Genomics, Human Evolutionary Genetics Group  
-&nbsp;&nbsp;&nbsp;&nbsp;Current position: Bioinformatician / Data analyst  
+&nbsp;&nbsp;&nbsp;&nbsp;Current position: Bioinformatics Specialist / Research Programmer-Data Coordinator  
   
 ### [2015 - 2017] University of Lausanne, Switzerland
 
@@ -46,7 +46,7 @@ Research and Work experience
 
 &nbsp;&nbsp;&nbsp;&nbsp;Federico Sanchez Lab  
 &nbsp;&nbsp;&nbsp;&nbsp;Department of Plant Molecular Biology  
-&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression of microRNAs in soybean  
+&nbsp;&nbsp;&nbsp;&nbsp;Research topic: Gene expression of microRNAs in soybean. NGS Illumina data  
 
 Education
 ======
