@@ -156,8 +156,6 @@ Y Chromosome
 
 [A recent bottleneck of Y chromosome diversity coincides with a global change in culture - Supp](https://genome.cshlp.org/content/suppl/2015/02/18/gr.186684.114.DC1/Supplemental_Figures.pdf)
 
-[A recent bottleneck of Y chromosome diversity coincides with a global change in culture - Supp](https://genome.cshlp.org/content/suppl/2015/02/18/gr.186684.114.DC1/Supplemental_Figures.pdf)
-
 [Introduction to the BigY](https://www.familytreedna.com/learn/wp-content/uploads/2016/01/BIG_Y_WhitePager.pdf)
 
 [Selective single molecule sequencing and assembly of a human Y chromosome of African origin](https://www.nature.com/articles/s41467-018-07885-5?WT.feed_name=subjects_computational-biology-and-bioinformatics#Sec9)
@@ -199,6 +197,16 @@ Snakemake
 SLURM
 
 [Slurm](https://slurm.schedmd.com)
+
+HPC Tartu
+
+[Atlas cluster](https://hpc.ut.ee/en/atlas)
+
+[Rocket cluster](https://hpc.ut.ee/en/rocket-cluster)
+
+[SLURM (Simple Linux Utility for Resource Management)](https://hpc.ut.ee/en/slurm/)
+
+[]()
 
 Git
 
@@ -345,6 +353,30 @@ Mutational Signatures
 
 ########################################
 
+Complete Genomics
+
+[Documentation Portal](https://www.completegenomics.com/customer-support/documentation)
+
+[Standard Sequencing Service 2.4 - 2.5](https://www.completegenomics.com/documents/Standard_Sequencing_Service_Getting_Started_Guide_2.4-2.5.pdf)
+
+[Standard Sequencing Service 2.2](https://www.completegenomics.com/documents/Standard_Sequencing_Service_Getting_Started_Guide_2.2.pdf)
+
+[Standard Sequencing Service 2.0](Standard Sequencing Service 2.4 - 2.5)
+
+[Data File Formats 2.5](https://www.completegenomics.com/documents/DataFileFormats_Standard_Pipeline_2.5.pdf)
+
+[Data File Formats 2.4](https://www.completegenomics.com/documents/DataFileFormats_Standard_Pipeline_2.4.pdf)
+
+[Data File Formats 2.2](https://www.completegenomics.com/documents/DataFileFormats_Standard_Pipeline_2.2.pdf)
+
+[Data File Formats 2.0](https://www.completegenomics.com/documents/DataFileFormats_Standard_Pipeline_2.0.pdf)
+
+[CGATools](http://cgatools.sourceforge.net/docs/1.8.0/)
+
+[CGATools release Notes](http://cgatools.sourceforge.net/docs/1.8.0/cgatools-release-notes.pdf)
+
+########################################
+
 Illumina
 
 [NovaSeq 6000 Sequencing System](https://sapac.illumina.com/content/dam/illumina-marketing/documents/products/datasheets/novaseq-6000-system-specification-sheet-770-2016-025.pdf)
@@ -361,6 +393,7 @@ Illumina
 
 [Illumina Two-Channel SBS Sequencing Technology](https://production.wordpress.uconn.edu/cagt/wp-content/uploads/sites/255/2014/08/NextSeq_2channel_SBS.pdf)
 
+[Genome-Wide DNA Analysis BeadChips](https://www.illumina.com/content/dam/illumina-marketing/documents/products/brochures/datasheet_omni_whole-genome_arrays.pdf)
 
 Combinatorics
 
@@ -430,14 +463,12 @@ Drosophila
 [Cell membrane proteins with high N-glycosylation, high expression and multiple interaction partners are preferred by mammalian viruses as receptors](https://academic.oup.com/bioinformatics/article/35/5/723/5068594)
 []()
 
+Black Death
 
+[Integrative approach using Yersinia pestis genomes to revisit the historical landscape of plague during the Medieval Period](https://www.pnas.org/content/115/50/E11790)
 
+SwedGen
 
-
-
-
-
-
-
-
-
+[SweGen: a whole-genome data resource of genetic variability in a cross-section of the Swedish population](https://www.nature.com/articles/ejhg2017130)
+[]()
+[]()
