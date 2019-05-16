@@ -16,6 +16,9 @@ Human Genomics
 
 [The Simons Genome Diversity Project: 300 genomes from 142 diverse populations - Supp](https://media.nature.com/original/nature-assets/nature/journal/v538/n7624/extref/nature18964-s1.pdf)
 
+[Genes mirror geography within Europe](https://www.nature.com/articles/nature07331)
+
+[Genetic Structure of Europeans: A View from the North–East](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005472)
 
 Africa population genetics
 
@@ -102,7 +105,10 @@ America Population Genetics
 
 [Genomic Insights into the Ancestry and Demographic History of South America](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005602)
 
+[Understanding the Hidden Complexity of Latin American Population Isolates](https://www.cell.com/ajhg/fulltext/S0002-9297(18)30351-3)
+
 [Elevated male European and female African contributions to the genomes of African American individuals](https://link.springer.com/article/10.1007%2Fs00439-006-0261-7)
+
 
 EE
 
@@ -166,7 +172,41 @@ Y Chromosome
 
 ########################################
 
-Admixture
+Phasing
+
+[Michigan Imputation Server](https://imputationserver.sph.umich.edu)
+
+[Sanger Imputation Service](https://imputation.sanger.ac.uk)
+
+[The Haplotype Reference Consortium](http://www.haplotype-reference-consortium.org/)
+
+[1000G Project Genetic Maps](ftp://ftp.1000genomes.ebi.ac.uk/vol1/ftp/technical/working/20140404_data_for_phase3_paper/shapeit2_scaffolds/)
+
+[Characterizing mutagenic effects of recombination through a sequence-level genetic map](https://science.sciencemag.org/content/363/6425/eaau1043)
+
+[Characterizing mutagenic effects of recombination through a sequence-level genetic map - Supp](https://science.sciencemag.org/content/sci/suppl/2019/01/23/363.6425.eaau1043.DC1/aau1043-Halldorsson-SM-revision1.pdf)
+
+[Haplotype phasing: existing methods and new developments](https://www.nature.com/articles/nrg3054)
+
+[Sharon R Browning, PhD](https://faculty.washington.edu/sguy/)
+
+[Brian Browning](https://faculty.washington.edu/browning/)
+
+[A reference panel of 64,976 haplotypes for genotype imputation](https://www.nature.com/articles/ng.3643)
+
+[A reference panel of 64,976 haplotypes for genotype imputation - Supp](https://media.nature.com/original/nature-assets/ng/journal/v48/n10/extref/ng.3643-S1.pdf)
+
+[Comparison of phasing strategies for whole human genomes](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007308)
+
+[Shapeit](https://mathgen.stats.ox.ac.uk/genetics_software/shapeit/shapeit.html)
+
+########################################
+
+Population structure
+
+[EIGENSOFT](https://github.com/DReichLab/EIG)
+
+[Improved Ancestry Estimation for both Genotyping and Sequencing Data using Projection Procrustes Analysis and Genotype Imputation](https://www.sciencedirect.com/science/article/pii/S000292971500155X?via%3Dihub)
 
 [Admixture 1.3 Software Manual](https://vcru.wisc.edu/simonlab/bioinformatics/programs/admixture/admixture-manual.pdf)
 
@@ -250,6 +290,10 @@ R
 
 [Unpacking S4 Objects in R](https://homolog.us/blogs/bioinfo/2019/02/22/Unpacking-S4-Vectors)
 
+[Tidyverse](https://www.tidyverse.org)
+
+[The caret package](https://topepo.github.io/caret/index.html)
+
 Markdown
 
 [R MarkdownReference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
@@ -257,6 +301,9 @@ Markdown
 [R Markdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)
 
 [R Markdown Extended Syntax](https://www.markdownguide.org/extended-syntax)
+
+[R Markdown Reference](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+
 
 Unix / Linux
 
@@ -316,6 +363,9 @@ SED
 []()
 []()
 
+EIGEN
+
+[convertf](https://github.com/DReichLab/EIG/tree/master/POPGEN)
 
 BCFTOOLS / VCF
 
@@ -466,6 +516,11 @@ Drosophila
 Black Death
 
 [Integrative approach using Yersinia pestis genomes to revisit the historical landscape of plague during the Medieval Period](https://www.pnas.org/content/115/50/E11790)
+
+Population Size Recontruction
+
+[Ancestry-specific recent effective population size in the Americas](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007385)
+
 
 SwedGen
 
