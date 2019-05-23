@@ -93,6 +93,18 @@ X chromosome
 
 America Population Genetics
 
+[The genetics of Mexico recapitulates Native American substructure and affects biomedical traits](https://science.sciencemag.org/content/344/6189/1280)
+
+[Reconstructing Native American Migrations from Whole-Genome and Whole-Exome Data](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1004023)
+
+[Reconstructing the Population Genetic History of the Caribbean](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003925)
+
+[Melanesian Blond Hair Is Caused by an Amino Acid Change in TYRP1](https://science.sciencemag.org/content/336/6081/554)
+
+[Type 2 Diabetes Risk Alleles Demonstrate Extreme Directional Differentiation among Human Populations, Compared to Other Diseases](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002621)
+
+[Y‐chromosome diversity in Native Mexicans reveals continental transition of genetic structure in the Americas](https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.22062)
+
 [Inferring sex-specific demographic history from SNP data](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007191)
 
 [Bayesian Estimation of Recent Migration Rates After a Spatial Expansion](http://www.genetics.org/content/170/1/409)
