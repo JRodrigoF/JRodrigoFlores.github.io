@@ -20,6 +20,18 @@ Human Genomics
 
 [Genetic Structure of Europeans: A View from the North–East](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0005472)
 
+Mutational Load and Deleterious Variation in Humans
+
+[Direct Evidence of an Increasing Mutational Load in Humans](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz192/5551346?rss=1)
+
+[No evidence that selection has been less effective at removing deleterious mutations in Europeans than in Africans](https://www.nature.com/articles/ng.3186)
+
+[Estimating the mutation load in human genomes](https://www.nature.com/articles/nrg3931)
+
+[The deleterious mutation load is insensitive to recent population history](https://www.nature.com/articles/ng.2896)
+
+[Extreme inbreeding in a European ancestry sample from the contemporary UK population](https://www.nature.com/articles/s41467-019-11724-6)
+
 Africa population genetics
 
 [Genomic Variation in Seven Khoe-San Groups Reveals Adaptation and Complex African History](http://science.sciencemag.org/content/338/6105/374)
