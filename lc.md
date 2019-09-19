@@ -32,6 +32,8 @@ Mutational Load and Deleterious Variation in Humans
 
 [Extreme inbreeding in a European ancestry sample from the contemporary UK population](https://www.nature.com/articles/s41467-019-11724-6)
 
+[Ancestry-Dependent Enrichment of Deleterious Homozygotes in Runs of Homozygosity](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30337-4?rss=yes)
+
 Africa population genetics
 
 [Genomic Variation in Seven Khoe-San Groups Reveals Adaptation and Complex African History](http://science.sciencemag.org/content/338/6105/374)
