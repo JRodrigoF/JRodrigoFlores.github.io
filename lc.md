@@ -32,8 +32,6 @@ Mutational Load and Deleterious Variation in Humans
 
 [Extreme inbreeding in a European ancestry sample from the contemporary UK population](https://www.nature.com/articles/s41467-019-11724-6)
 
-[Ancestry-Dependent Enrichment of Deleterious Homozygotes in Runs of Homozygosity](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30337-4?rss=yes)
-
 Africa population genetics
 
 [Genomic Variation in Seven Khoe-San Groups Reveals Adaptation and Complex African History](http://science.sciencemag.org/content/338/6105/374)
@@ -296,6 +294,26 @@ Python
 [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008)
 
 [yapf - A formatter for Python files](https://github.com/google/yapf)
+
+[Data Science Cheat Sheet | Pandas and Numpy Cheat Sheet](https://courses.cs.ut.ee/MTAT.03.183/2017_spring/uploads/Main/pandas-cheat-sheet.pdf)
+
+[Python For Data Science | Pandas Basics Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+
+[Python For Data Science | Pandas Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/9f0f2ae1-8bd8-4302-a67b-e17f3059d9e8)
+
+[Python For Data Science | Scikit-Learn Cheat Sheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+
+[Python For Data Science | Importing Data Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/50d31142-3de0-4159-89b9-18b718a728ef)
+
+[Python For Data Science | Bokeh Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/f9511cf4-abb9-4f52-9663-ea93b29ee4b7)
+
+[Python For Data Science | Numpy Basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
+
+[Python For Data Science | Jupyter Notebook Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
+
+[Python For Data Science | ScyPy Linear Algebra Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/5710caa7-94d4-4248-be94-d23dea9e668f)
+
+[Python For Data Science | Matplotlib Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/28b8210c-60cc-4f13-b0b4-5b4f2ad4790b)
 
 []()
 []()
