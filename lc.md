@@ -194,6 +194,10 @@ Y Chromosome
 
 [Characterizing the genetic history of admixture across inner Eurasia](https://www.biorxiv.org/content/10.1101/327122v1)
 
+[Human Y Chromosome Haplogroup N: A Non-trivial Time-Resolved Phylogeography that Cuts across Language Families](https://www.sciencedirect.com/science/article/pii/S0002929716301604)
+
+[Human Y Chromosome Haplogroup N: A Non-trivial Time-Resolved Phylogeography that Cuts across Language Families - Fig()https://www.cell.com/ajhg/pdf/S0002-9297(16)30160-4.pdf
+
 ########################################
 
 Phasing
@@ -280,6 +284,10 @@ Databases
 
 [PopHumanScan](https://pophumanscan.uab.cat/index.php)
 
+Math
+
+[Algebra Cheat Sheet](http://tutorial.math.lamar.edu/pdf/Algebra_Cheat_Sheet.pdf)
+
 Programming
 
 [How to Design Programs](https://htdp.org/2003-09-26)
@@ -288,6 +296,12 @@ Programming
 []()
 []()
 []()
+
+Latex
+
+[Latex Cheat Sheet](https://wch.github.io/latexsheet/latexsheet.pdf)
+
+
 
 Python
 
@@ -310,6 +324,8 @@ Python
 [Python For Data Science | Numpy Basics Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/e9f83f72-a81b-42c7-af44-4e35b48b20b7)
 
 [Python For Data Science | Jupyter Notebook Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/48093c40-5303-45f4-bbf9-0c96c0133c40)
+
+[Python For Data Science | Jupyter Notebook Shortcut Cheat Sheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/pdf_bw/)
 
 [Python For Data Science | ScyPy Linear Algebra Cheat Sheet](https://datacamp-community-prod.s3.amazonaws.com/5710caa7-94d4-4248-be94-d23dea9e668f)
 
