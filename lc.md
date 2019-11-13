@@ -196,7 +196,7 @@ Y Chromosome
 
 [Human Y Chromosome Haplogroup N: A Non-trivial Time-Resolved Phylogeography that Cuts across Language Families](https://www.sciencedirect.com/science/article/pii/S0002929716301604)
 
-[Human Y Chromosome Haplogroup N: A Non-trivial Time-Resolved Phylogeography that Cuts across Language Families - Fig()https://www.cell.com/ajhg/pdf/S0002-9297(16)30160-4.pdf
+[Human Y Chromosome Haplogroup N: A Non-trivial Time-Resolved Phylogeography that Cuts across Language Families - Fig](https://www.cell.com/ajhg/pdf/S0002-9297(16)30160-4.pdf)
 
 ########################################
 
